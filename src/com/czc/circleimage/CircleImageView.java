@@ -14,7 +14,7 @@ import android.widget.ImageView;
 public class CircleImageView extends ImageView {
 
     Path path;
-    public PaintFlagsDrawFilter mPaintFlagsDrawFilter;// Ã«±ß¹ýÂË
+    public PaintFlagsDrawFilter mPaintFlagsDrawFilter;
     Paint paint;
 
     public CircleImageView(Context context, AttributeSet attrs, int defStyle) {
